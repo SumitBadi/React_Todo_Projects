@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+}
+.deco { float: right;
+        cursor: pointer;
+        }
+.design p,input { border: 2px solid slateblue;
+            padding: 2px;
+            margin-bottom: 2px;
+        background-color: aqua;
+        color: black;}
+
+.sam {
+    margin-top: -6px;
+        margin-left: 5px;
+}
