@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/React_Todo_Projects/static/css/main.3b58bc39.css",
-    "main.js": "/React_Todo_Projects/static/js/main.295335d3.js",
+    "main.css": "/React_Todo_Projects/static/css/main.8c43ba23.chunk.css",
+    "main.js": "/React_Todo_Projects/static/js/main.667c5085.chunk.js",
+    "main.js.map": "/React_Todo_Projects/static/js/main.667c5085.chunk.js.map",
+    "runtime~main.js": "/React_Todo_Projects/static/js/runtime~main.97e0a7c1.js",
+    "runtime~main.js.map": "/React_Todo_Projects/static/js/runtime~main.97e0a7c1.js.map",
+    "static/css/2.68a81a89.chunk.css": "/React_Todo_Projects/static/css/2.68a81a89.chunk.css",
+    "static/js/2.3377c9d2.chunk.js": "/React_Todo_Projects/static/js/2.3377c9d2.chunk.js",
+    "static/js/2.3377c9d2.chunk.js.map": "/React_Todo_Projects/static/js/2.3377c9d2.chunk.js.map",
     "index.html": "/React_Todo_Projects/index.html",
-    "main.3b58bc39.css.map": "/React_Todo_Projects/static/css/main.3b58bc39.css.map",
-    "main.295335d3.js.map": "/React_Todo_Projects/static/js/main.295335d3.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.3b58bc39.css",
-    "static/js/main.295335d3.js"
-  ]
+    "precache-manifest.06210dc7d65e50f04683353c92a7dde3.js": "/React_Todo_Projects/precache-manifest.06210dc7d65e50f04683353c92a7dde3.js",
+    "service-worker.js": "/React_Todo_Projects/service-worker.js",
+    "static/css/2.68a81a89.chunk.css.map": "/React_Todo_Projects/static/css/2.68a81a89.chunk.css.map",
+    "static/css/main.8c43ba23.chunk.css.map": "/React_Todo_Projects/static/css/main.8c43ba23.chunk.css.map"
+  }
 }
