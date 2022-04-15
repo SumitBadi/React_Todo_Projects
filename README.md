@@ -1,3 +1,6 @@
+# Preview site directly through below link
+https://sumitbadi.github.io/React_Todo_Projects/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
