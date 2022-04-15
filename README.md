@@ -1,4 +1,4 @@
-# Preview site directly through below link
+# Preview Project directly through below link
 https://sumitbadi.github.io/React_Todo_Projects/
 
 # Getting Started with Create React App
